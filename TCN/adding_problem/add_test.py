@@ -1,3 +1,9 @@
+import sys, os
+
+sys.path.append('/content/TCN')
+
+# /content/TCN/
+
 import torch
 import argparse
 import torch.optim as optim

@@ -64,7 +64,7 @@ if args.cuda:
 lr = args.lr
 optimizer = getattr(optim, args.optim)(model.parameters(), lr=lr)
 
-
+print(optimizer)
 def train(ep):
     global steps
     train_loss = 0

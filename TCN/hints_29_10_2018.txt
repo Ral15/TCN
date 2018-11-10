@@ -1,0 +1,36 @@
+19 todo - -
+
+* se supone que ya parte
+    escritura -
+    teoria
+    que van a experimentar
+    implementacion
+
+terminar parte de expirentacion
+
+
+
+resultados coniables
+    - checar bien como se hace la experimentacion
+    - definir todo slos parametros del experimento
+    - exper suficientemente alta. parametros que fue bueba. revisar que tan extensa fue la exp, pq, suficiente, como lo sprestentatm, que parametros representan,
+    quie tan seguro de los resultados y conclusiones
+    coeficiente correlacion lineal
+    usar misma metodologia
+    - dar porcentajes de generalizar
+    - checar porcentajes de analisis
+    - repeteri experimenbti
+    - - -> que tan seguro estyoy de que esto va a suceder?? definir bien como lo ovuy hacer, explicar dataset.
+    - asi como definieron todos los parametros/dejarlo replicable
+
+
+    sensors - papers
+    applied sciences - papers
+    entropy - papers
+    IEEE - papers
+    xvavier - papers
+
+mejorar estado del arte con papers de entropy y applied sciences
+
+trucos sucions
+    - citar para ellos

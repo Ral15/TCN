@@ -1,6 +1,6 @@
 import sys, os
 
-sys.path.append('/content/TCN')
+sys.path.append('/Users/Ral15/Dropbox/Tec/10mo/tesina/playground/TCN')
 
 # /content/TCN/
 

@@ -3,6 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 import sys
 sys.path.append("../../")
+sys.path.append("/Users/Ral15/Dropbox/Tec/10mo/tesina/playground/TCN")
 from TCN.char_cnn.utils import *
 from TCN.char_cnn.model import TCN
 import time

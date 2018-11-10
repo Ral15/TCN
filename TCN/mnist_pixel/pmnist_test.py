@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/A00512318/TCN')
 import torch
 from torch.autograd import Variable
 import torch.optim as optim

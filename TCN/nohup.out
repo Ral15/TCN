@@ -1,0 +1,144 @@
+[I 23:13:37.327 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 23:13:37.491 NotebookApp] Serving notebooks from local directory: /home/A00512318/TCN/TCN
+[I 23:13:37.491 NotebookApp] The Jupyter Notebook is running at:
+[I 23:13:37.491 NotebookApp] http://(gpuserver or 127.0.0.1):9999/
+[I 23:13:37.491 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:14:20.875 NotebookApp] 404 GET /api/kernels/a521f695-6a28-4175-abaf-c391d5a0516d/channels?session_id=f882db1341fb4d7b8ac21a8adae61fff (10.25.25.66): Kernel does not exist: a521f695-6a28-4175-abaf-c391d5a0516d
+[W 23:14:20.898 NotebookApp] 404 GET /api/kernels/a521f695-6a28-4175-abaf-c391d5a0516d/channels?session_id=f882db1341fb4d7b8ac21a8adae61fff (10.25.25.66) 28.75ms referer=None
+[W 23:15:35.561 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.25.66) 1.04ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 23:15:36.807 NotebookApp] Kernel started: 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 23:15:37.244 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[W 23:15:44.759 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.25.66) 0.99ms referer=http://10.25.24.6:9999/notebooks/poly_music/poly_1.ipynb
+[I 23:15:45.569 NotebookApp] Kernel started: 7ee87244-5503-44b0-bb06-fe02d5a6f564
+[I 23:15:46.039 NotebookApp] Adapting to protocol v5.1 for kernel 7ee87244-5503-44b0-bb06-fe02d5a6f564
+[I 23:16:08.550 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 23:16:10.059 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 23:16:10.225 NotebookApp] Starting buffering for 7ee87244-5503-44b0-bb06-fe02d5a6f564:b71d41d54f1b4e749d3c1a497ad27152
+[W 23:18:37.246 NotebookApp] WebSocket ping timeout after 112718 ms.
+[I 23:18:42.248 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:e675237c38b7415ab7b163ca848aff28
+[W 11:48:45.798 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.09ms referer=http://10.25.24.6:9999/notebooks/poly_music/poly_1.ipynb
+[I 11:48:46.700 NotebookApp] Adapting to protocol v5.1 for kernel 7ee87244-5503-44b0-bb06-fe02d5a6f564
+[I 11:48:46.700 NotebookApp] Discarding 645 buffered messages for 7ee87244-5503-44b0-bb06-fe02d5a6f564:b71d41d54f1b4e749d3c1a497ad27152
+[I 11:50:46.564 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 11:58:46.639 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:04:43.004 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 12:04:43.004 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:e675237c38b7415ab7b163ca848aff28
+[I 12:04:46.582 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:06:46.662 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:08:46.703 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:11:46.605 NotebookApp] Starting buffering for 7ee87244-5503-44b0-bb06-fe02d5a6f564:b7c477c28765403eab056c555f9deb84
+[I 12:11:47.244 NotebookApp] Kernel restarted: 7ee87244-5503-44b0-bb06-fe02d5a6f564
+[I 12:11:47.767 NotebookApp] Adapting to protocol v5.1 for kernel 7ee87244-5503-44b0-bb06-fe02d5a6f564
+[I 12:11:47.768 NotebookApp] Restoring connection for 7ee87244-5503-44b0-bb06-fe02d5a6f564:b7c477c28765403eab056c555f9deb84
+[I 12:11:47.768 NotebookApp] Replaying 6 buffered messages
+[I 12:12:47.558 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:14:47.572 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:16:53.111 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:18:48.007 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:20:48.924 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:22:17.269 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:e675237c38b7415ab7b163ca848aff28
+[I 12:22:17.594 NotebookApp] Kernel restarted: 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 12:22:18.229 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 12:22:18.230 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:e675237c38b7415ab7b163ca848aff28
+[I 12:22:18.230 NotebookApp] Replaying 6 buffered messages
+[I 12:22:49.276 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:23:30.358 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 12:24:49.759 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:25:30.470 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 12:26:50.002 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:27:30.354 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 12:28:49.746 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 12:30:49.841 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 14:22:49.671 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 14:24:49.716 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 14:32:49.690 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 14:34:49.717 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 14:36:49.645 NotebookApp] Saving file at /poly_music/poly_1.ipynb
+[I 14:43:30.261 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 14:45:45.156 NotebookApp] Copying mnist_pixel/fashion_mnist-3-paper.ipynb to /mnist_pixel
+[W 14:45:47.872 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.17ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-3-paper-Copy1.ipynb
+[I 14:45:49.629 NotebookApp] Kernel started: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 14:45:50.154 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 15:20:32.558 NotebookApp] Copying mnist_pixel/fashion_mnist-3-paper.ipynb to /mnist_pixel
+[W 15:20:34.801 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.51ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-3-paper-Copy1.ipynb
+[I 15:20:36.443 NotebookApp] Kernel started: 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 15:20:36.915 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 15:22:36.471 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[I 15:24:36.480 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[I 15:25:49.570 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:26:36.593 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[I 15:28:36.494 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[W 15:30:47.768 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 15:30:48.231 NotebookApp] WebSocket ping timeout after 119991 ms.
+[W 15:30:50.156 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 15:30:52.770 NotebookApp] Starting buffering for 7ee87244-5503-44b0-bb06-fe02d5a6f564:b7c477c28765403eab056c555f9deb84
+[I 15:30:53.232 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:e675237c38b7415ab7b163ca848aff28
+[I 15:30:55.159 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:071e5e7777da4d7c806f61e3f0d4945a
+[W 15:31:06.918 NotebookApp] WebSocket ping timeout after 119965 ms.
+[E 15:31:08.418 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 15:31:08.467 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+        self._handle_recv()
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(63, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(63, 1)>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+    self._handle_recv()
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 15:31:11.919 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:b6e3c93bc9d340faa2dc018560443536
+[I 16:01:52.058 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[W 16:09:11.541 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.71ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_filters.ipynb
+[I 16:09:13.230 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 16:09:13.231 NotebookApp] Discarding 64 buffered messages for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:b6e3c93bc9d340faa2dc018560443536
+[I 16:11:12.843 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[I 16:14:33.708 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb

@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/home/A00512318/TCN')
+sys.path.append('/home/A00512318/TCN/TCN/poly_music')
 import argparse
 import torch
 import torch.nn as nn

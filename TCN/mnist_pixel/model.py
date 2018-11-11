@@ -5,8 +5,9 @@ from TCN.tcn import TemporalConvNet
 from torch.nn import init
 
 class TCN(nn.Module):
-    def __init__(self, input_size = 1, output_size = 10, num_channels = [25] * 8, kernel_size = 7, dropout = 0.25):
+    def __init__(self, input_size = 1, output_size = 10, hidden_units = 25, levels = 8, kernel_size = 7, dropout = 0.25):
         super(TCN, self).__init__()
+        num_channels = [hidden_units] * levels
         self.tcn = TemporalConvNet(input_size, num_channels, kernel_size=kernel_size, dropout=dropout)
         self.linear = nn.Linear(num_channels[-1], output_size)
 

@@ -142,3 +142,1411 @@ tornado.websocket.WebSocketClosedError
 [I 16:09:13.231 NotebookApp] Discarding 64 buffered messages for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:b6e3c93bc9d340faa2dc018560443536
 [I 16:11:12.843 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
 [I 16:14:33.708 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[I 16:15:12.804 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[I 16:21:16.477 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[W 16:24:13.232 NotebookApp] WebSocket ping timeout after 119910 ms.
+[I 16:24:18.233 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:df68096c2a964b98b1026d6ce8bc4827
+[W 17:49:15.182 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.21ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_filters.ipynb
+[I 17:49:16.758 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 17:52:34.221 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 17:52:36.553 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:52:36.554 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:071e5e7777da4d7c806f61e3f0d4945a
+[I 17:52:39.532 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 17:52:42.409 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:071e5e7777da4d7c806f61e3f0d4945a
+[W 17:52:44.394 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.09ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 17:52:45.846 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:52:59.658 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:320fc5bde53d44c2b9a717421160958b
+[I 17:53:00.076 NotebookApp] Kernel restarted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:53:00.619 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:53:00.620 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:320fc5bde53d44c2b9a717421160958b
+[I 17:53:00.620 NotebookApp] Replaying 6 buffered messages
+[I 17:54:45.787 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 17:56:45.757 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 18:00:16.761 NotebookApp] WebSocket ping timeout after 119982 ms.
+[I 18:00:21.763 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[W 18:00:30.621 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 18:00:35.623 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:320fc5bde53d44c2b9a717421160958b
+[I 18:02:22.521 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:02:24.273 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 18:02:24.273 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:320fc5bde53d44c2b9a717421160958b
+[I 18:02:24.609 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 18:02:24.610 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 18:04:19.319 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:06:20.604 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:14:20.700 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:16:20.686 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:24:21.004 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:28:20.815 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:30:20.969 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:32:20.807 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:38:20.820 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:40:20.963 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:46:20.901 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:50:20.791 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:52:20.901 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:52:45.437 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:52:46.635 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:320fc5bde53d44c2b9a717421160958b
+[W 18:52:52.504 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 32.71ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:52:53.626 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[W 18:54:23.980 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.37ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:55:58.831 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 18:56:53.532 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:58:53.520 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:02:53.683 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:04:53.524 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:08:53.527 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:10:51.928 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:11:00.848 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:bbe47ed619774b779cd3396ec8ad22f9
+[I 19:11:01.564 NotebookApp] Kernel restarted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 19:11:03.195 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 19:11:03.195 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:bbe47ed619774b779cd3396ec8ad22f9
+[I 19:11:03.196 NotebookApp] Replaying 6 buffered messages
+[I 19:12:53.496 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:14:53.510 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:16:53.621 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:19:00.583 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:21:01.706 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:23:02.049 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 19:30:33.197 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 19:30:38.199 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:bbe47ed619774b779cd3396ec8ad22f9
+[W 19:30:54.611 NotebookApp] WebSocket ping timeout after 119895 ms.
+[I 19:30:59.612 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 19:31:08.067 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 19:31:08.068 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:bbe47ed619774b779cd3396ec8ad22f9
+[I 19:31:08.963 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 19:31:08.964 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 19:32:57.831 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:36:57.827 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:44:57.844 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:45:06.435 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 19:46:58.063 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:46:59.586 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:47:02.352 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:bbe47ed619774b779cd3396ec8ad22f9
+[I 19:47:03.259 NotebookApp] Kernel restarted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 19:47:03.709 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 19:47:03.709 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:bbe47ed619774b779cd3396ec8ad22f9
+[I 19:47:03.709 NotebookApp] Replaying 6 buffered messages
+[I 19:48:57.813 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:50:57.795 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:52:57.807 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:54:57.811 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:56:57.805 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 20:12:57.889 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11): '_xsrf' argument missing from POST
+[W 20:12:57.889 NotebookApp] '_xsrf' argument missing from POST
+[W 20:12:57.889 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11) 23.72ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[W 20:14:58.083 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11): '_xsrf' argument missing from POST
+[W 20:14:58.084 NotebookApp] '_xsrf' argument missing from POST
+[W 20:14:58.084 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11) 25.60ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[W 20:16:57.882 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11): '_xsrf' argument missing from POST
+[W 20:16:57.882 NotebookApp] '_xsrf' argument missing from POST
+[W 20:16:57.882 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11) 28.12ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[W 20:18:57.859 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11): '_xsrf' argument missing from POST
+[W 20:18:57.859 NotebookApp] '_xsrf' argument missing from POST
+[W 20:18:57.859 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11) 24.66ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[W 20:20:57.860 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11): '_xsrf' argument missing from POST
+[W 20:20:57.860 NotebookApp] '_xsrf' argument missing from POST
+[W 20:20:57.860 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11) 23.28ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[W 20:22:57.893 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11): '_xsrf' argument missing from POST
+[W 20:22:57.893 NotebookApp] '_xsrf' argument missing from POST
+[W 20:22:57.893 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11) 22.05ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:24:27.319 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:bbe47ed619774b779cd3396ec8ad22f9
+[W 20:24:27.899 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11): '_xsrf' argument missing from POST
+[W 20:24:27.899 NotebookApp] '_xsrf' argument missing from POST
+[W 20:24:27.899 NotebookApp] 403 PUT /api/contents/mnist_pixel/fashion_mnist_optim.ipynb (10.25.89.11) 22.91ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[W 20:24:31.191 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.03ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:24:32.800 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 20:25:29.522 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:25:34.041 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:db571e05e5514892822657f5d621652f
+[I 20:25:34.760 NotebookApp] Kernel restarted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 20:25:35.223 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 20:25:35.224 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:db571e05e5514892822657f5d621652f
+[I 20:25:35.224 NotebookApp] Replaying 3 buffered messages
+[I 20:26:32.416 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:28:33.207 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:30:33.205 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:32:33.226 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:36:33.189 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:40:33.199 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:42:33.190 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:44:33.183 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:46:33.365 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:48:33.183 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:50:33.191 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:52:33.188 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:54:33.230 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:56:33.172 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:58:33.196 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:00:33.279 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:04:33.161 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:06:33.158 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:08:33.165 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:10:33.414 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:12:33.151 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:14:33.151 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:16:33.191 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:18:33.149 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:20:33.142 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:24:33.155 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:26:33.142 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:28:33.411 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:30:33.137 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:34:33.139 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:36:33.136 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:40:33.134 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:42:33.126 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:44:33.231 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:46:33.128 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:48:33.122 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:50:33.417 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:52:33.149 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:54:33.140 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:56:33.250 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:58:33.217 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:00:33.198 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:02:33.203 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:04:33.258 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:06:33.489 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:08:33.195 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:12:33.210 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:14:33.380 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:16:33.233 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:18:33.193 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:20:33.327 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:22:10.162 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:22:33.192 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:24:33.195 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:24:52.291 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:26:33.418 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:28:33.193 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:29:23.469 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:30:33.173 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:32:33.258 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:34:33.282 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:36:22.647 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:36:25.636 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:36:33.162 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:36:50.783 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:38:33.161 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:42:33.177 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:44:33.264 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:46:33.172 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:47:56.017 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:48:33.157 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:48:56.657 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:50:33.148 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:53:51.275 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:54:33.315 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:54:37.048 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:55:15.601 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:55:17.211 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:55:17.525 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:55:17.816 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:55:18.254 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:56:33.144 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:58:33.153 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:00:33.150 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:08:33.164 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:10:33.146 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:11:52.892 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:12:22.221 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:12:33.135 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:12:43.234 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:13:31.726 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:13:31.990 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:13:32.283 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:13:32.570 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:14:33.133 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:16:33.148 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:22:33.143 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:23:47.817 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:23:54.601 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:db571e05e5514892822657f5d621652f
+[I 23:23:55.552 NotebookApp] Kernel restarted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 23:23:56.138 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 23:23:56.139 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:db571e05e5514892822657f5d621652f
+[I 23:23:56.139 NotebookApp] Replaying 6 buffered messages
+[I 23:24:33.141 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:26:33.137 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:28:33.124 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:30:33.273 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:32:33.115 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:34:33.120 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:36:33.241 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:38:33.116 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:40:33.112 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:42:33.106 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:44:33.116 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:46:33.202 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:48:33.128 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:52:42.234 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:54:44.537 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:56:55.072 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:00:15.278 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:03:35.369 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:06:55.256 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:10:16.188 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:13:36.348 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:16:56.237 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:20:17.024 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:23:36.809 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:26:57.662 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:30:17.657 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:33:38.217 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:36:58.673 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:40:18.534 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:43:38.526 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:46:58.586 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:50:19.234 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:53:38.910 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:56:58.917 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:00:19.845 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:03:40.012 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:07:00.768 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:10:21.362 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:13:42.393 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:17:02.097 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:20:22.179 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:23:42.134 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:27:02.119 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:27:08.073 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:27:08.366 NotebookApp] Copying mnist_pixel/fashion_mnist_optim.ipynb to /mnist_pixel
+[W 01:27:10.615 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.13ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 01:27:11.942 NotebookApp] Kernel started: 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 01:27:12.466 NotebookApp] Adapting to protocol v5.1 for kernel 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 01:30:22.895 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:31:12.724 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 01:33:01.899 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 01:33:12.975 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 01:33:43.092 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:35:12.735 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 01:35:46.447 NotebookApp] Kernel interrupted: 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 01:37:12.756 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 01:39:12.893 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 01:40:23.034 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:41:12.731 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 01:43:43.173 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:47:03.007 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:50:23.090 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:53:43.085 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:00:23.051 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:03:42.984 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:07:02.984 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:09:51.595 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:09:55.388 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:db571e05e5514892822657f5d621652f
+[I 02:09:58.038 NotebookApp] Kernel restarted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 02:10:01.314 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 02:10:01.315 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:db571e05e5514892822657f5d621652f
+[I 02:10:01.315 NotebookApp] Replaying 6 buffered messages
+[I 02:10:22.971 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:11:25.666 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:11:26.278 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:11:26.644 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:11:27.048 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:11:28.199 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:db571e05e5514892822657f5d621652f
+[W 02:11:33.836 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 6.83ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:11:34.720 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[W 02:15:08.966 NotebookApp] WebSocket ping timeout after 119973 ms.
+[W 02:15:12.467 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 02:15:14.009 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 02:15:17.468 NotebookApp] Starting buffering for 691528ac-05b0-4fd5-9203-9e6830701ef0:bb6f2a2069c34a94afbe6529776c1baf
+[W 02:15:34.723 NotebookApp] WebSocket ping timeout after 119925 ms.
+[E 02:15:35.960 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:15:36.081 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+        self._handle_recv()
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(47, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(47, 1)>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+    self._handle_recv()
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 02:15:39.724 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 874, in wrapper
+    yield fut
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1133, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1141, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 876, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 874, in wrapper
+    yield fut
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1133, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1141, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 876, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 874, in wrapper
+    yield fut
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1133, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1141, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 876, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 874, in wrapper
+    yield fut
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1133, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1141, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 876, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 874, in wrapper
+    yield fut
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1133, in run
+    value = future.result()
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/gen.py", line 1141, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 876, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 12:26:18.714 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:26:19.024 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:26:19.165 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:26:19.385 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 12:26:19.385 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 12:26:19.385 NotebookApp] Replaying 2709 buffered messages
+[I 12:26:22.083 NotebookApp] Adapting to protocol v5.1 for kernel 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 12:26:22.083 NotebookApp] Restoring connection for 691528ac-05b0-4fd5-9203-9e6830701ef0:bb6f2a2069c34a94afbe6529776c1baf
+[I 12:26:22.188 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 12:26:22.188 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[W 12:57:46.392 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 13:01:48.913 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 13:01:51.680 NotebookApp] Kernel restarted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 13:01:54.875 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 13:01:54.875 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 13:01:54.875 NotebookApp] Replaying 6 buffered messages
+[W 13:07:01.841 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 13:19:52.084 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 13:19:52.190 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 13:19:54.876 NotebookApp] WebSocket ping timeout after 119939 ms.
+[I 13:19:57.086 NotebookApp] Starting buffering for 691528ac-05b0-4fd5-9203-9e6830701ef0:bb6f2a2069c34a94afbe6529776c1baf
+[I 13:19:57.192 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 13:19:59.877 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 13:21:42.080 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 13:21:42.080 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 13:21:42.106 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 13:21:42.107 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 13:21:42.122 NotebookApp] Adapting to protocol v5.1 for kernel 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 13:21:42.123 NotebookApp] Restoring connection for 691528ac-05b0-4fd5-9203-9e6830701ef0:bb6f2a2069c34a94afbe6529776c1baf
+[W 14:12:12.081 NotebookApp] WebSocket ping timeout after 119900 ms.
+[W 14:12:12.109 NotebookApp] WebSocket ping timeout after 119928 ms.
+[W 14:12:12.123 NotebookApp] WebSocket ping timeout after 119942 ms.
+[I 14:12:17.085 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 14:12:17.109 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 14:12:17.124 NotebookApp] Starting buffering for 691528ac-05b0-4fd5-9203-9e6830701ef0:bb6f2a2069c34a94afbe6529776c1baf
+[I 14:14:07.573 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 14:14:07.574 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:a5c730df680542fe833f53809e29a6a4
+[I 14:14:07.590 NotebookApp] Adapting to protocol v5.1 for kernel 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 14:14:07.592 NotebookApp] Restoring connection for 691528ac-05b0-4fd5-9203-9e6830701ef0:bb6f2a2069c34a94afbe6529776c1baf
+[I 14:14:07.739 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 14:14:07.739 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 14:35:56.890 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:53:22.376 NotebookApp] Starting buffering for 691528ac-05b0-4fd5-9203-9e6830701ef0:bb6f2a2069c34a94afbe6529776c1baf
+[I 15:52:56.810 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:56:52.712 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:56:54.548 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 16:28:53.508 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 16:29:13.711 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 16:45:42.252 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 16:48:22.125 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 18:17:52.997 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 30.08ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 18:17:54.347 NotebookApp] Adapting to protocol v5.1 for kernel 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 18:18:59.971 NotebookApp] Starting buffering for 691528ac-05b0-4fd5-9203-9e6830701ef0:48d47c37e8b841f689a5c7ce977fb860
+[W 18:19:07.749 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.49ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:19:09.861 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 18:21:09.896 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:27:09.460 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:29:09.501 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:31:09.452 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:33:09.446 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:35:09.657 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:37:09.434 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:45:09.437 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:47:09.442 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:49:09.438 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 18:51:09.444 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:01:09.453 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:03:05.779 NotebookApp] Kernel interrupted: 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 19:03:09.606 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:05:10.280 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[W 19:05:17.175 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.55ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim-Copy1.ipynb
+[I 19:05:18.265 NotebookApp] Adapting to protocol v5.1 for kernel 691528ac-05b0-4fd5-9203-9e6830701ef0
+[I 19:05:26.484 NotebookApp] Starting buffering for 691528ac-05b0-4fd5-9203-9e6830701ef0:91eb2351cc7f4ebeb3d4ff9769ad2ae3
+[W 19:05:37.357 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 0.97ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_filters.ipynb
+[I 19:05:39.036 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 19:05:51.225 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 19:07:12.180 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:09:12.176 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:11:12.170 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:13:12.182 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:15:12.166 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:17:13.423 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:19:12.206 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:21:12.786 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:23:12.755 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:25:13.990 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:27:13.638 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:37:13.646 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:39:14.882 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:41:15.153 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:43:14.884 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:45:15.130 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:55:14.949 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:56:43.184 NotebookApp] Kernel interrupted: 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 19:57:14.848 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 19:59:15.694 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 20:01:15.280 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 20:03:15.232 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 20:05:15.780 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 20:07:16.410 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 20:09:17.566 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 21:11:15.174 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 21:49:39.862 NotebookApp] WebSocket ping timeout after 119901 ms.
+[I 21:49:44.864 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[W 21:49:51.227 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 21:49:56.230 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[W 21:50:07.741 NotebookApp] WebSocket ping timeout after 119887 ms.
+[I 21:50:12.742 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 22:02:16.269 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 22:02:16.270 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 22:02:16.286 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 22:02:16.287 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 22:02:16.306 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 22:02:16.307 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 22:15:09.428 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:17:11.340 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:19:12.258 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:21:12.437 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:23:12.911 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:25:13.720 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:27:13.776 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:29:14.463 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:31:14.926 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:33:15.648 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:35:15.633 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:41:16.219 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:43:16.217 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:45:16.342 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:46:12.722 NotebookApp] Kernel interrupted: 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 22:47:16.312 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:49:16.321 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:51:16.319 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:53:16.332 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:55:16.766 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 22:57:16.418 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 23:01:16.547 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 23:03:16.789 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 23:05:18.473 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 23:07:18.790 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[I 23:09:18.540 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper.ipynb
+[W 23:46:16.272 NotebookApp] WebSocket ping timeout after 119942 ms.
+[W 23:46:16.308 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 23:46:16.308 NotebookApp] WebSocket ping timeout after 119977 ms.
+[E 23:46:19.289 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 23:46:19.363 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+        self._handle_recv()
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(47, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(47, 1)>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+    self._handle_recv()
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 23:46:21.310 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 23:46:21.310 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 23:46:21.310 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 07:05:23.940 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 07:05:23.958 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 07:05:23.958 NotebookApp] Replaying 2988 buffered messages
+[I 07:05:25.744 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 07:05:25.744 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 07:05:28.319 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 07:05:28.319 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 07:31:17.735 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 07:33:23.333 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 08:26:53.960 NotebookApp] WebSocket ping timeout after 119920 ms.
+[W 08:26:55.745 NotebookApp] WebSocket ping timeout after 119930 ms.
+[W 08:26:58.320 NotebookApp] WebSocket ping timeout after 119894 ms.
+[I 08:26:58.962 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 08:27:00.747 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 08:27:03.322 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 08:29:42.813 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 08:29:42.814 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 08:29:42.828 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 08:29:42.832 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 08:29:43.921 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 08:29:43.922 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[W 09:10:42.815 NotebookApp] WebSocket ping timeout after 119784 ms.
+[W 09:10:42.832 NotebookApp] WebSocket ping timeout after 119801 ms.
+[W 09:10:43.923 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 09:10:47.816 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 09:10:47.832 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 09:10:48.925 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 09:13:48.739 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 09:13:48.739 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 09:13:48.774 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 09:13:48.775 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 09:13:48.792 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 09:13:48.792 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[W 09:59:18.740 NotebookApp] WebSocket ping timeout after 119996 ms.
+[W 09:59:18.775 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 09:59:18.793 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 09:59:23.741 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 09:59:23.777 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 09:59:23.794 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 10:10:48.320 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 10:10:48.321 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 10:10:48.334 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 10:10:48.335 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 10:10:48.348 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 10:10:48.349 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[W 11:28:48.322 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 11:28:48.336 NotebookApp] WebSocket ping timeout after 119994 ms.
+[W 11:28:48.351 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 11:28:53.324 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 11:28:53.339 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 11:28:53.352 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 12:03:10.120 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 12:03:10.120 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 12:03:11.591 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 12:03:11.592 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 12:03:11.635 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 12:03:11.635 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[W 12:41:10.121 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 12:41:11.593 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 12:41:11.636 NotebookApp] WebSocket ping timeout after 119872 ms.
+[E 12:41:14.253 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 12:41:14.348 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+        self._handle_recv()
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(47, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(47, 1)>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+    self._handle_recv()
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 12:41:15.122 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 12:41:16.595 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 12:41:16.637 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 12:44:01.711 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 12:44:01.712 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 12:44:01.712 NotebookApp] Replaying 34 buffered messages
+[I 12:44:01.858 NotebookApp] Adapting to protocol v5.1 for kernel 1112254d-1bf6-4219-ac1a-0c4e0d2d588c
+[I 12:44:01.859 NotebookApp] Restoring connection for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[I 12:44:01.924 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 12:44:01.925 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 13:59:10.201 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 13:59:13.789 NotebookApp] Starting buffering for 1112254d-1bf6-4219-ac1a-0c4e0d2d588c:8015f4422ff94641a60b4489ecf82b49
+[W 14:04:16.519 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 37.10ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-2.ipynb
+[I 14:04:18.951 NotebookApp] Kernel started: f6095852-f243-4ca3-8820-968ccad45a5f
+[I 14:04:22.160 NotebookApp] Adapting to protocol v5.1 for kernel f6095852-f243-4ca3-8820-968ccad45a5f
+[I 14:50:18.745 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-2.ipynb
+[I 14:52:18.366 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-2.ipynb
+[I 14:54:18.378 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-2.ipynb
+[I 14:56:09.623 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-2.ipynb
+[I 14:56:09.774 NotebookApp] Starting buffering for f6095852-f243-4ca3-8820-968ccad45a5f:b1a4aa0169f34af9ac734153430e4521
+[W 15:00:46.355 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.57ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist.ipynb
+[I 15:00:47.520 NotebookApp] Kernel started: 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:00:48.442 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:02:47.673 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:04:47.559 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:06:47.685 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:08:47.771 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+THCudaCheck FAIL file=/opt/conda/conda-bld/pytorch_1532584813488/work/aten/src/THC/generated/../generic/THCTensorMathReduce.cu line=219 error=2 : out of memory
+[I 15:09:01.718 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:09:03.969 NotebookApp] Kernel restarted: 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:09:07.237 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:09:07.238 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:09:07.238 NotebookApp] Replaying 6 buffered messages
+[I 15:09:19.645 NotebookApp] Kernel interrupted: 3c598328-9653-4ef9-96b0-432498915df1
+THCudaCheck FAIL file=/opt/conda/conda-bld/pytorch_1532584813488/work/aten/src/THC/generated/../generic/THCTensorMathReduce.cu line=219 error=2 : out of memory
+[I 15:09:54.687 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:09:55.648 NotebookApp] Kernel restarted: 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:09:57.935 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:09:57.935 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:09:57.935 NotebookApp] Replaying 6 buffered messages
+[I 15:10:47.607 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:12:47.561 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:14:47.612 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:16:47.835 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:18:44.332 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:18:47.545 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+THCudaCheck FAIL file=/opt/conda/conda-bld/pytorch_1532584813488/work/aten/src/THC/THCTensorCopy.cu line=206 error=2 : out of memory
+[I 15:19:37.256 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:20:47.541 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:22:47.519 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:24:47.562 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:27:29.315 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 15:28:47.713 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:29:25.488 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:29:27.974 NotebookApp] Kernel restarted: 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:29:30.840 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:29:30.841 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:29:30.841 NotebookApp] Replaying 6 buffered messages
+[I 15:29:40.908 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:29:41.228 NotebookApp] Kernel restarted: 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:29:41.790 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 15:29:41.790 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 15:29:41.790 NotebookApp] Replaying 6 buffered messages
+[I 15:30:47.523 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:32:47.570 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:34:48.214 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:36:48.195 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:38:48.973 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:40:49.012 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:42:48.815 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:44:48.806 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:46:49.042 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:48:48.913 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:50:49.203 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:52:49.021 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:54:32.840 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:54:48.765 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:56:49.079 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 15:58:49.153 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:00:49.363 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:02:49.467 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:04:50.844 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:06:56.565 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:09:04.560 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[W 16:17:01.713 NotebookApp] WebSocket ping timeout after 119991 ms.
+[E 16:17:03.776 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 16:17:03.850 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+        self._handle_recv()
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(47, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(47, 1)>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+    self._handle_recv()
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 16:17:06.714 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[W 16:17:11.791 NotebookApp] WebSocket ping timeout after 119965 ms.
+[I 16:17:16.793 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 16:34:14.110 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 16:34:14.110 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 16:34:14.283 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 16:34:14.284 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 16:34:14.284 NotebookApp] Replaying 128 buffered messages
+[I 16:42:40.992 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:45:10.126 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:47:40.784 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:50:10.526 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:52:40.329 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:55:10.378 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 16:57:40.533 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:00:10.982 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:02:41.292 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:05:11.465 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:07:41.248 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:10:11.198 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:12:42.423 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:15:11.133 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:17:41.292 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:20:12.200 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:22:25.095 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:22:39.561 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:22:41.189 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:23:02.810 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:23:56.903 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:24:24.739 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:25:11.012 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:30:58.298 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:32:10.112 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:42:41.170 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:47:41.114 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:50:10.958 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 17:56:43.028 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 17:57:49.488 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 17:57:56.927 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 17:59:27.442 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 17:59:35.229 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 17:59:41.244 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 17:59:47.595 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 17:59:53.941 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 18:00:00.681 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 18:15:03.185 NotebookApp] 302 GET / (10.25.89.11) 0.70ms
+[W 18:15:37.402 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.45ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:15:45.126 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 18:15:45.127 NotebookApp] Discarding 1 buffered messages for ec2f5c94-9318-4d8d-b93d-a697486a4e76:5081da9bb16b42638f6a106fbb61e93c
+[I 18:17:45.571 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:19:45.658 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:21:45.590 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 18:27:30.865 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.27ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist.ipynb
+[I 18:27:31.900 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 18:27:31.900 NotebookApp] Discarding 1 buffered messages for 3c598328-9653-4ef9-96b0-432498915df1:58fbf5482e7945328eec3ea19f9b5a39
+[I 18:29:31.935 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:31:31.810 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:31:45.618 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:33:46.132 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:35:47.500 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:37:31.822 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:37:46.238 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:39:31.783 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:41:31.785 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:43:31.796 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:45:31.763 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:47:31.778 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:49:32.340 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:49:46.394 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:51:32.131 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:53:32.146 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:55:32.153 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 18:59:32.290 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:01:32.223 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:03:32.199 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:05:32.673 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:07:33.152 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:07:59.127 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:09:32.904 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:11:32.999 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:15:33.072 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:17:32.896 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:19:33.363 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:21:34.151 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:23:34.122 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:25:30.504 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:25:34.427 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[W 19:26:40.384 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.77ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-3-paper-rnn.ipynb
+[I 19:26:41.365 NotebookApp] Kernel started: f20f8a05-d915-4a56-98ae-0c5293b3ccf3
+[I 19:26:41.858 NotebookApp] Adapting to protocol v5.1 for kernel f20f8a05-d915-4a56-98ae-0c5293b3ccf3
+[I 19:27:34.330 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:27:59.882 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:31:34.349 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:33:35.074 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:35:35.822 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:37:35.825 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:39:35.765 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 20:21:35.789 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 20:28:00.063 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 20:29:35.756 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 20:45:35.834 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 20:47:35.780 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 20:49:35.718 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 20:51:35.959 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 20:53:35.956 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[W 21:06:41.860 NotebookApp] WebSocket ping timeout after 119964 ms.
+[W 21:06:45.129 NotebookApp] WebSocket ping timeout after 119890 ms.
+[I 21:06:46.861 NotebookApp] Starting buffering for f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[I 21:06:50.131 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[W 21:07:01.902 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 21:07:06.903 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:7541d39abc3443ae9be95d2300a5f55d
+[I 21:17:32.913 NotebookApp] Adapting to protocol v5.1 for kernel f20f8a05-d915-4a56-98ae-0c5293b3ccf3
+[I 21:17:32.913 NotebookApp] Restoring connection for f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[I 21:17:32.983 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 21:17:32.983 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 21:17:32.996 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 21:17:32.999 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:7541d39abc3443ae9be95d2300a5f55d
+[I 21:19:18.349 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 21:21:19.239 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 21:23:19.495 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 21:25:19.161 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 21:32:12.501 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:34:42.243 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:39:42.751 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:42:12.410 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:44:42.631 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:47:12.903 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:49:42.913 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:52:12.047 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:54:41.955 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:55:19.130 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 21:57:11.965 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 21:57:19.122 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 21:59:42.078 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 22:01:07.171 NotebookApp] Replacing stale connection: f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[I 22:01:08.204 NotebookApp] Starting buffering for f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[I 22:01:08.205 NotebookApp] Adapting to protocol v5.1 for kernel f20f8a05-d915-4a56-98ae-0c5293b3ccf3
+[I 22:01:08.205 NotebookApp] Restoring connection for f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[W 22:01:08.218 NotebookApp] Replacing stale connection: 3c598328-9653-4ef9-96b0-432498915df1:7541d39abc3443ae9be95d2300a5f55d
+[I 22:01:13.220 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:7541d39abc3443ae9be95d2300a5f55d
+[I 22:01:13.220 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 22:01:13.221 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:7541d39abc3443ae9be95d2300a5f55d
+[W 22:01:13.233 NotebookApp] Replacing stale connection: ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 22:01:18.234 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 22:01:18.235 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 22:01:18.236 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 22:02:12.341 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:04:42.072 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:07:12.105 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:09:42.563 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:12:12.017 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 22:12:31.788 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.56ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-3-paper-rnn.ipynb
+[I 22:12:32.844 NotebookApp] Adapting to protocol v5.1 for kernel f20f8a05-d915-4a56-98ae-0c5293b3ccf3
+[I 22:22:13.061 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:24:42.199 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:27:19.165 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 22:29:19.375 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 22:31:20.489 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 22:32:11.942 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 22:33:20.477 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 22:35:20.501 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 22:37:20.679 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 22:38:24.225 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper-rnn.ipynb
+[I 22:39:36.742 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[W 22:53:31.202 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.21ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist-3-paper-rnn.ipynb
+[I 22:53:32.238 NotebookApp] Adapting to protocol v5.1 for kernel f20f8a05-d915-4a56-98ae-0c5293b3ccf3
+[I 22:58:24.195 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper-rnn.ipynb
+[I 23:16:24.170 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper-rnn.ipynb
+[I 23:18:24.164 NotebookApp] Saving file at /mnist_pixel/fashion_mnist-3-paper-rnn.ipynb
+[I 23:20:18.437 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:7541d39abc3443ae9be95d2300a5f55d
+[W 23:20:21.932 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.11) 1.41ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist.ipynb
+[I 23:20:21.934 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 23:24:21.859 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 23:26:21.954 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 23:28:21.876 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 23:29:41.917 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:30:22.646 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 23:32:24.895 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 23:34:22.563 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 23:36:22.517 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 23:37:11.910 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 23:39:42.070 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 23:51:38.209 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 23:51:43.211 NotebookApp] Starting buffering for f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[W 23:51:48.237 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 23:51:51.935 NotebookApp] WebSocket ping timeout after 119909 ms.
+[I 23:51:53.238 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 23:51:56.936 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 00:23:07.494 NotebookApp] Adapting to protocol v5.1 for kernel f20f8a05-d915-4a56-98ae-0c5293b3ccf3
+[I 00:23:07.494 NotebookApp] Restoring connection for f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[I 00:23:07.972 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 00:23:07.972 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 00:23:08.281 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 00:23:08.281 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 00:31:45.490 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:34:16.326 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:36:45.477 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:39:15.801 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:41:45.516 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:44:15.467 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:51:45.453 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:54:15.575 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:56:45.430 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:57:07.626 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 00:58:48.145 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 00:59:15.424 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 00:59:58.454 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 01:01:46.077 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:04:16.198 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:06:47.013 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:09:17.015 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:11:47.059 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:14:16.992 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:15:06.496 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 01:16:13.271 NotebookApp] Starting buffering for f20f8a05-d915-4a56-98ae-0c5293b3ccf3:5a669c7eb3e6474f8ba9f6564beff4fb
+[I 01:16:46.979 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:19:16.999 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:21:47.004 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:24:17.550 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:26:48.494 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:29:19.155 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:31:49.162 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:34:19.137 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:36:50.150 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:39:20.456 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:41:50.417 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:44:20.725 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:44:53.533 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 01:46:50.501 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:46:53.475 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 01:49:21.147 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:51:51.255 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:52:53.510 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 01:54:21.221 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:54:53.508 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 01:56:51.237 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 01:58:53.560 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 01:59:21.309 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:00:53.546 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:01:51.248 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:02:53.535 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:04:21.833 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:04:53.525 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:06:51.885 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:06:53.507 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:08:53.828 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:09:21.941 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:10:53.535 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:11:51.893 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:14:21.924 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:14:53.593 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:16:51.938 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:16:53.504 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:19:21.974 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:20:53.709 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:21:52.132 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:22:53.503 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:24:22.146 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:24:53.493 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:26:52.182 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:26:53.519 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:28:53.496 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:29:22.439 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:30:53.494 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:31:52.508 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:34:22.507 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:34:53.488 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:36:52.469 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:36:53.477 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:38:53.510 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:39:23.334 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:40:53.474 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:41:53.433 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:42:53.473 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:44:21.504 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 02:44:23.517 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 02:44:28.997 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 02:47:08.282 NotebookApp] WebSocket ping timeout after 98183 ms.
+[E 02:47:10.623 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:47:10.623 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+        self._handle_recv()
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(44, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(44, 1)>
+Traceback (most recent call last):
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 450, in _handle_events
+    self._handle_recv()
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 480, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/A00512318/anaconda3/envs/tcn/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 02:47:13.283 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[W 02:47:37.973 NotebookApp] WebSocket ping timeout after 119927 ms.
+[I 02:47:42.976 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 11:15:02.299 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 11:16:35.928 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.189) 1.41ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:16:39.920 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 11:16:39.921 NotebookApp] Discarding 1050 buffered messages for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 11:18:17.632 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 11:18:25.477 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 11:20:02.442 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:20:55.788 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 11:20:55.788 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 11:22:32.171 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:25:02.157 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:27:32.473 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:30:02.693 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:32:32.699 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:35:02.186 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:37:32.738 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:40:02.309 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:45:02.727 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:50:02.358 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:52:32.776 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:55:02.811 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 11:57:32.285 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:00:02.718 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:00:46.812 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:02:32.506 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:05:02.179 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:07:32.151 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:10:02.433 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:12:32.231 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:30:02.818 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:32:32.410 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:35:02.603 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:37:33.444 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:40:02.816 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:42:33.685 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:45:02.466 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:47:32.468 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 12:50:02.193 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:00:02.963 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:07:33.940 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:10:07.806 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:12:33.085 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:15:03.127 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:17:33.356 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:18:35.215 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 13:20:17.961 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:23:18.582 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:27:13.034 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:33:04.387 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:39:05.671 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:40:55.178 NotebookApp] Kernel interrupted: ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 13:44:35.903 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 13:44:49.830 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 13:45:38.246 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181109231337 (10.25.89.189) 1.24ms referer=http://10.25.24.6:9999/notebooks/mnist_pixel/fashion_mnist_filters.ipynb
+[I 13:45:39.952 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 13:45:39.952 NotebookApp] Discarding 1 buffered messages for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:8f584169039a476b8698d8f8b3ac1328
+[I 13:46:37.267 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 13:49:39.458 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_filters.ipynb
+[I 13:50:34.254 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 13:56:24.418 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:02:14.893 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:08:04.892 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:13:55.126 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:19:44.498 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:25:34.199 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:31:25.183 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:37:14.227 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:43:04.254 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:48:54.150 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 14:54:44.797 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:00:35.677 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:06:26.719 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:12:15.853 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:18:05.998 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:23:56.047 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:29:47.001 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:35:38.557 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:41:28.783 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:47:17.201 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 15:53:07.547 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 15:55:39.953 NotebookApp] WebSocket ping timeout after 119963 ms.
+[I 15:55:44.954 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:fa346672d47b45688bce2cdf6dd1e68a
+[W 15:55:47.634 NotebookApp] WebSocket ping timeout after 119226 ms.
+[I 15:55:52.636 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[W 15:55:55.790 NotebookApp] WebSocket ping timeout after 119913 ms.
+[I 15:56:00.790 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 17:18:13.757 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 17:18:13.758 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:fa346672d47b45688bce2cdf6dd1e68a
+[I 17:18:14.677 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:18:14.677 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 17:18:15.497 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 17:18:15.497 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 17:27:26.146 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[W 17:42:43.760 NotebookApp] WebSocket ping timeout after 119969 ms.
+[W 17:42:44.679 NotebookApp] WebSocket ping timeout after 119966 ms.
+[W 17:42:45.498 NotebookApp] WebSocket ping timeout after 119847 ms.
+[I 17:42:48.761 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:fa346672d47b45688bce2cdf6dd1e68a
+[I 17:42:49.681 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 17:42:50.500 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 17:44:15.953 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:44:15.953 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 17:44:16.057 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 17:44:16.057 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 17:44:17.199 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 17:44:17.199 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:fa346672d47b45688bce2cdf6dd1e68a
+[W 17:55:45.959 NotebookApp] WebSocket ping timeout after 118719 ms.
+[W 17:55:46.058 NotebookApp] WebSocket ping timeout after 118818 ms.
+[W 17:55:47.202 NotebookApp] WebSocket ping timeout after 119760 ms.
+[I 17:55:50.960 NotebookApp] Starting buffering for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 17:55:51.059 NotebookApp] Starting buffering for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 17:55:52.204 NotebookApp] Starting buffering for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:fa346672d47b45688bce2cdf6dd1e68a
+[I 17:56:03.939 NotebookApp] Adapting to protocol v5.1 for kernel ec2f5c94-9318-4d8d-b93d-a697486a4e76
+[I 17:56:03.939 NotebookApp] Restoring connection for ec2f5c94-9318-4d8d-b93d-a697486a4e76:3c70b2bb96d5469989daf5459bf6230d
+[I 17:56:03.956 NotebookApp] Adapting to protocol v5.1 for kernel 2ce173e1-5b65-43f6-aebb-ad88f319d8b8
+[I 17:56:03.957 NotebookApp] Restoring connection for 2ce173e1-5b65-43f6-aebb-ad88f319d8b8:fa346672d47b45688bce2cdf6dd1e68a
+[I 17:56:03.977 NotebookApp] Adapting to protocol v5.1 for kernel 3c598328-9653-4ef9-96b0-432498915df1
+[I 17:56:03.977 NotebookApp] Restoring connection for 3c598328-9653-4ef9-96b0-432498915df1:03c562f45a50438ba2fa13f8471ac5ad
+[I 18:30:33.473 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 18:59:43.500 NotebookApp] Saving file at /mnist_pixel/fashion_mnist_optim.ipynb
+[I 19:01:02.264 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:03:02.251 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:05:02.261 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:07:02.271 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:09:02.246 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
+[I 19:13:02.250 NotebookApp] Saving file at /mnist_pixel/fashion_mnist.ipynb
